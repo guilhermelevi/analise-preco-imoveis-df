@@ -101,5 +101,5 @@ Para executar este projeto localmente, siga os passos abaixo:
 
 Projeto desenvolvido por **Guilherme Levi**.
 
-* **LinkedIn:** [Seu Perfil Aqui](https://www.linkedin.com/in/guilherme-levi-05406221a/)
+* **LinkedIn:** [Guilherme Levi](https://www.linkedin.com/in/guilherme-levi-05406221a/)
 * **GitHub:** [guilhermelevi](https://github.com/guilhermelevi)
